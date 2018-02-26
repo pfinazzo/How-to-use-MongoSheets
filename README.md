@@ -20,7 +20,7 @@ Technically an Array is a type of object but for our purposes an array is data h
 
 * Navigate to [this site](https://chrome.google.com/webstore/detail/mongosheet/malanmbliiillkcjmedoacklhhemhfhk) and download the MongoSheet chrome extension by clicking the install button near the top right corner of the screen
 
-##Connect a blank spreadsheet to the database
+## Connect a blank spreadsheet to the database
 * Open up a blank google sheet in [Google Sheets](https://www.google.com/sheets/about/)
 
 ![Imgur](https://i.imgur.com/3DiqC2S.png)
