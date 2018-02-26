@@ -14,7 +14,7 @@ ___
 
 You will need to know the difference between an array and an object
 
-Technically an Array is a type of object but for our purposes an array is data held between 
+Technically an Array is a type of object but for our purposes an array is data held between the characters [ ], and an object is data held between the the characters { }
 
 ## Install MongoSheet as a Chrome Extension
 
